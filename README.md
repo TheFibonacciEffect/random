@@ -1,8 +1,6 @@
 # random
 #### A random number generator written in C.
 
-[![Build Status](https://travis-ci.org/ivanch/random.svg?branch=master)](https://travis-ci.org/ivanch/random)
-
 ----------
 
 ## Usage
@@ -15,3 +13,9 @@
 | -d n | Sets `n` decimal numbers to show on float. [Default = 2] |
 | -g n | Generates `n` numbers. |
 | -l | Disables line jumping (`\n`). |
+
+#TODO
+- normal distribution
+- standard deviation
+- sample lines from file/stdin
+- equiprobable distribution
